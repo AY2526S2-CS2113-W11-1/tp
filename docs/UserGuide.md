@@ -558,6 +558,6 @@ The `unpaid` command does not require a prior `paid` command, it independently m
 | Mark as Paid   | `paid INDEX ym/YYYY-MM`                                        | `paid 1 ym/2026-04`                           |
 | Mark as Unpaid | `unpaid INDEX ym/YYYY-MM`                                      | `unpaid 1 ym/2026-04`                         |
 | Fee Summary    | `fee-summary INDEX ym/YYYY-MM`                                 | `fee-summary 1 ym/2026-04`                    |
-| Mark as Unpaid | `monthly-income ym/YYYY-MM`                                    | `monthly-income 1 ym/2026-04`                 |
+| Monthly Income | `monthly-income ym/YYYY-MM`                                    | `monthly-income 1 ym/2026-04`                 |
 | Exit           | `bye`                                                          | `bye`                                         |
 
